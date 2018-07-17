@@ -1,6 +1,3 @@
 # sreeja
 
-dobbey
-
-
-shit
+hello
